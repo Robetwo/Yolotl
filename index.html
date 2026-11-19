@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#183f37">
+  <meta name="description" content="YOLOTL: explora los sabores regionales de las 32 entidades de México. Proyecto demostrativo con mapa interactivo y pasaporte digital.">
+  <title>YOLOTL | México se descubre en cada bocado</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data/estados.js" defer></script>
+  <script src="data/mapa-mexico.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#explorar">Ir al contenido</a>
+  <div class="demo-strip">PROTOTIPO ACADÉMICO · Los restaurantes y descuentos mostrados son demostrativos, no ofertas reales.</div>
+  <header class="site-header">
+    <a class="brand" href="#inicio" aria-label="YOLOTL, inicio"><span class="brand-mark" aria-hidden="true">✺</span><span>YOLOTL<span class="brand-dot">.</span></span></a>
+    <nav class="desktop-nav" aria-label="Navegación principal"><a href="#explorar">Explorar México</a><a href="#como-funciona">Cómo funciona</a><a href="#pasaporte">Pasaporte digital</a></nav>
+    <a class="nav-cta" href="#pasaporte">Mi pasaporte <span aria-hidden="true">↗</span></a>
+  </header>
+  <main>
+    <section class="hero section-shell" id="inicio">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-dot"></span> TURISMO · CULTURA · GASTRONOMÍA</div>
+        <h1>México se descubre <em>en cada bocado.</em></h1>
+        <p>Viaja por los sabores de nuestro país. Descubre platillos tradicionales, explora sus regiones y conoce la propuesta del Pasaporte Digital YOLOTL.</p>
+        <div class="hero-actions"><a class="btn btn-primary" href="#explorar">Explorar los 32 estados <span aria-hidden="true">↗</span></a><a class="btn btn-text" href="#como-funciona">Conoce el proyecto <span aria-hidden="true">→</span></a></div>
+        <div class="hero-stats"><div><strong>32</strong><span>entidades</span></div><span class="stat-sep"></span><div><strong>160</strong><span>platillos</span></div><span class="stat-sep"></span><div><strong>1</strong><span>pasaporte</span></div></div>
+      </div>
+      <div class="hero-art" aria-label="Composición ilustrada de cocina mexicana">
+        <div class="art-ring art-ring-1"></div><div class="art-ring art-ring-2"></div>
+        <div class="art-caption art-caption-top">Hecho de mil sabores <span>✳</span></div>
+        <div class="art-dish dish-main"><span>🌮</span><small>Tradición</small></div>
+        <div class="art-dish dish-second"><span>🫔</span></div>
+        <div class="art-dish dish-third"><span>🌶️</span></div>
+        <div class="art-caption art-caption-bottom">Saborea el origen <span>↗</span></div>
+      </div>
+    </section>
+    <section class="explore section-shell" id="explorar">
+      <div class="section-intro"><div><div class="kicker">01 / EXPLORA EL PAÍS</div><h2>Un país, <em>infinitos sabores.</em></h2><p>Toca un estado del mapa, usa los botones de zoom o acerca con dos dedos en tu celular. También puedes elegirlo en el menú para conocer cinco especialidades gastronómicas.</p></div><span class="accent-star" aria-hidden="true">✳</span></div>
+      <div class="explorer-layout">
+        <div class="map-panel">
+          <div class="map-topline"><span><span class="live-dot"></span> MAPA INTERACTIVO DE MÉXICO</span><span class="map-label">32 entidades</span></div>
+          <div id="map-area" class="map-area">
+            <svg id="mexico-map" viewBox="0 0 1050 600" role="group" tabindex="0" aria-label="Mapa interactivo de México. Pulsa las ubicaciones o estados; usa más y menos para acercar o alejar y arrastra para mover el mapa."></svg>
+            <div class="map-controls" role="group" aria-label="Controles de zoom del mapa">
+              <button id="map-zoom-in" type="button" title="Acercar mapa" aria-label="Acercar mapa">+</button>
+              <button id="map-zoom-out" type="button" title="Alejar mapa" aria-label="Alejar mapa">−</button>
+              <button id="map-reset" type="button" title="Mostrar todo México" aria-label="Restablecer mapa"><span aria-hidden="true">⌂</span></button>
+            </div>
+            <div class="map-help" id="map-help">✦ Arrastra para mover · Pellizca para acercar</div>
+          </div>
+          <div class="map-bottom"><p id="map-current" class="map-current" aria-live="polite">📍 Jalisco seleccionado</p><a id="map-view-dishes" class="map-view-link" href="#dishes-title">Ver sus 5 platillos <span aria-hidden="true">↗</span></a></div>
+          <p class="map-footnote"><span aria-hidden="true">✳</span> Mapa disponible en móvil y escritorio. Los puntos representan ubicaciones orientativas; cuando el contorno de estados está disponible, también se pueden seleccionar tocando su superficie. <a href="https://github.com/louquillio/map-data" target="_blank" rel="noopener noreferrer">Datos de límites estatales</a>.</p>
+        </div>
+        <aside class="selector-panel" aria-label="Selección de entidad">
+          <div class="select-head"><div class="kicker">TU PRÓXIMO DESTINO</div><span aria-hidden="true">✺</span></div>
+          <label for="estado-select">¿Qué estado quieres descubrir?</label>
+          <div class="select-wrap"><select id="estado-select" aria-label="Seleccionar estado"></select><span aria-hidden="true">⌄</span></div>
+          <div class="selected-summary" id="selected-summary" aria-live="polite"></div>
+          <div class="info-tip"><span aria-hidden="true">✹</span><p>La gastronomía regional es diversa: esta selección es introductoria y no sustituye la investigación cultural local.</p></div>
+        </aside>
+      </div>
+      <div class="results-head"><div><div class="kicker">SABORES DEL DESTINO</div><h3 id="dishes-title">5 platillos que debes conocer</h3></div><span class="result-tag" id="result-tag">Selección regional</span></div>
+      <div id="dishes-grid" class="dishes-grid" aria-live="polite"></div>
+      <div class="restaurant-section">
+        <div class="restaurant-heading"><div><div class="kicker">CONEXIONES LOCALES</div><h3>Restaurantes por descubrir</h3><p>Espacios de ejemplo para una futura selección de tres establecimientos verificados por entidad.</p></div><span class="pending-tag">Directorio piloto · Sin afiliaciones confirmadas</span></div>
+        <div id="restaurants-grid" class="restaurants-grid"></div>
+      </div>
+    </section>
+    <section class="how-band" id="como-funciona"><div class="section-shell how-inner"><div><div class="kicker light-kicker">02 / LA EXPERIENCIA YOLOTL</div><h2>De la curiosidad <em>a la mesa.</em></h2></div><div class="steps"><article><span>01</span><strong>Elige un destino</strong><p>Navega por cualquiera de las 32 entidades mexicanas.</p></article><article><span>02</span><strong>Descubre su cocina</strong><p>Explora cinco sabores representativos de cada región.</p></article><article><span>03</span><strong>Conoce el pasaporte</strong><p>Simula cómo funcionaría un beneficio con restaurantes afiliados.</p></article></div></div></section>
+    <section class="passport-section section-shell" id="pasaporte">
+      <div class="passport-copy"><div class="kicker">03 / TU SIGUIENTE AVENTURA</div><h2>Tu sabor, <em>tu pasaporte.</em></h2><p>Imagina una credencial digital que te conecte con experiencias culinarias en todo México. Prueba aquí una demostración del beneficio YOLOTL.</p><div class="passport-notice"><span aria-hidden="true">ⓘ</span> Solo simulación: no ofrece descuentos reales, acceso a comercios ni verificación de identidad.</div><label class="spend-label" for="consumo">Consumo de ejemplo (MXN)</label><div class="spend-control"><span>$</span><input id="consumo" type="number" value="350" min="0" max="100000" step="50" inputmode="numeric"><span>MXN</span></div><p class="spend-help">Regla ilustrativa: 5 % para consumos menores a $500; 10 % a partir de $500.</p><button id="new-passport" class="btn btn-primary passport-btn" type="button">Generar pasaporte de muestra <span aria-hidden="true">↗</span></button></div>
+      <div class="passport-visual"><div class="passport-card" id="passport-card"><div class="passport-card-top"><div class="passport-brand"><span>✺</span> YOLOTL</div><span>EDICIÓN DEMO</span></div><div class="passport-card-middle"><span class="passport-small">PASAPORTE GASTRONÓMICO</span><strong>Descubre.<br>Saborea.<br>Conecta.</strong></div><div class="passport-card-bottom"><div><span class="passport-small">CÓDIGO ILUSTRATIVO</span><strong id="passport-code">YOLOTL-DEMO</strong></div><div class="discount-badge"><strong id="discount">5%</strong><span>DESCUENTO<br>SIMULADO</span></div></div><span class="passport-pattern" aria-hidden="true">✳</span></div><div class="passport-controls"><button id="copy-passport" class="secondary-btn" type="button">Copiar código</button><button id="print-passport" class="secondary-btn" type="button">Imprimir tarjeta</button></div><p class="passport-disclaimer" id="passport-result" aria-live="polite">La tarjeta es una demostración visual. No es canjeable.</p></div>
+    </section>
+    <section class="closing"><div class="section-shell closing-inner"><span>✺</span><div><div class="kicker light-kicker">RAÍCES QUE NOS UNEN</div><h2>Sabores que cuentan <em>historias.</em></h2><p>YOLOTL propone acercar a viajeros y cocinas locales desde una experiencia digital accesible.</p></div><a class="btn btn-light" href="#explorar">Seguir explorando <span aria-hidden="true">↗</span></a></div></section>
+  </main>
+  <footer class="site-footer section-shell"><div class="footer-brand"><span class="brand-mark" aria-hidden="true">✺</span><strong>YOLOTL.</strong><span>Gastronomía que conecta.</span></div><p>Prototipo de demostración. La información gastronómica es una selección editorial inicial sujeta a revisión. Los restaurantes son ficticios y las ofertas, ilustrativas. No se recopilan datos personales.</p><span class="footer-right">México · 2026</span></footer>
+</body>
+</html>
