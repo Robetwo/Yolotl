@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "01",
+    "nombre": "Aguascalientes",
+    "ciudad": "Aguascalientes",
+    "emoji": "🌶️",
+    "descripcion": "Entre huertas de guayaba, chiles y cocina del Bajío.",
+    "platillos": [
+      {
+        "nombre": "Chile aguascalentense",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Pollo de San Marcos",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Menudo estilo Aguascalientes",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Gorditas de maíz",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Dulce de guayaba",
+        "descripcion": "Dulce regional que refleja ingredientes y técnicas de la repostería tradicional."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Aguascalientes",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Aguascalientes",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Aguascalientes",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "nombre": "Baja California",
+    "ciudad": "Tijuana",
+    "emoji": "🌮",
+    "descripcion": "Cocina de frontera con influencias del Pacífico y del norte.",
+    "platillos": [
+      {
+        "nombre": "Tacos de pescado estilo Ensenada",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Ensalada César de Tijuana",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Langosta estilo Puerto Nuevo",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Tostadas de mariscos",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Tacos de birria estilo Tijuana",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Tijuana",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Tijuana",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Tijuana",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "nombre": "Baja California Sur",
+    "ciudad": "La Paz",
+    "emoji": "🐟",
+    "descripcion": "Sabores del mar y tradiciones de las misiones sudcalifornianas.",
+    "platillos": [
+      {
+        "nombre": "Almejas chocolatas tatemadas",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Machaca de mantarraya",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Tacos de pescado",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Empanadas de camarón",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Caldo de pescado",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "La Paz",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "La Paz",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "La Paz",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "nombre": "Campeche",
+    "ciudad": "Campeche",
+    "emoji": "🦐",
+    "descripcion": "Herencia maya, pescados y guisos de la costa del Golfo.",
+    "platillos": [
+      {
+        "nombre": "Pan de cazón",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Pámpano en escabeche",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Camarones al coco",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Pibipollo",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Arroz con mariscos",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Campeche",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Campeche",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Campeche",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "nombre": "Coahuila",
+    "ciudad": "Saltillo",
+    "emoji": "🥩",
+    "descripcion": "Cocina norteña de asados, pan tradicional y carnes.",
+    "platillos": [
+      {
+        "nombre": "Cabrito al pastor",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Discada norteña",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Asado de puerco",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Pan de pulque",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Carne seca",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Saltillo",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Saltillo",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Saltillo",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "nombre": "Colima",
+    "ciudad": "Colima",
+    "emoji": "🥣",
+    "descripcion": "Sopitos, guisos de maíz y sazón del Pacífico.",
+    "platillos": [
+      {
+        "nombre": "Sopitos colimenses",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Pozole seco",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Tatemado",
+        "descripcion": "Dulce regional que refleja ingredientes y técnicas de la repostería tradicional."
+      },
+      {
+        "nombre": "Cuachala",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Pescado a la talla",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Colima",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Colima",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Colima",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "nombre": "Chiapas",
+    "ciudad": "Tuxtla Gutiérrez",
+    "emoji": "🫔",
+    "descripcion": "Cocina chiapaneca de hierbas, maíz y grandes celebraciones.",
+    "platillos": [
+      {
+        "nombre": "Tamales de chipilín",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Cochito horneado",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Sopa de pan",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Pepita con tasajo",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Chanfaina chiapaneca",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Tuxtla Gutiérrez",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Tuxtla Gutiérrez",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Tuxtla Gutiérrez",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "nombre": "Chihuahua",
+    "ciudad": "Chihuahua",
+    "emoji": "🧀",
+    "descripcion": "Tradiciones del desierto, carne seca y quesos.",
+    "platillos": [
+      {
+        "nombre": "Burritos de machaca",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Chile pasado con queso",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Discada chihuahuense",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Caldo de oso",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Queso menonita con tortillas",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Chihuahua",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Chihuahua",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Chihuahua",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "nombre": "Ciudad de México",
+    "ciudad": "Ciudad de México",
+    "emoji": "🌮",
+    "descripcion": "Antojitos de barrio y encuentros de distintas cocinas del país.",
+    "platillos": [
+      {
+        "nombre": "Tacos al pastor",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Tlacoyos",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Guajolotas",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Chiles en nogada estilo capitalino",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Tortas de tamal",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Ciudad de México",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Ciudad de México",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Ciudad de México",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "nombre": "Durango",
+    "ciudad": "Durango",
+    "emoji": "🌶️",
+    "descripcion": "Guisos de chile y cocina del altiplano norte.",
+    "platillos": [
+      {
+        "nombre": "Caldillo durangueño",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Gallina borracha",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Asado rojo",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Gorditas duranguenses",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Tamales de chile colorado",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Durango",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Durango",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Durango",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "nombre": "Guanajuato",
+    "ciudad": "Guanajuato",
+    "emoji": "🌽",
+    "descripcion": "Antojitos del Bajío con mercados y dulces de tradición.",
+    "platillos": [
+      {
+        "nombre": "Enchiladas mineras",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Guacamayas",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Fiambre sanmiguelense",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Pacholas",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Cajeta de Celaya",
+        "descripcion": "Dulce regional que refleja ingredientes y técnicas de la repostería tradicional."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Guanajuato",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Guanajuato",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Guanajuato",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "nombre": "Guerrero",
+    "ciudad": "Chilpancingo",
+    "emoji": "🐟",
+    "descripcion": "Cocina de montaña y de costa, con maíz y pescados.",
+    "platillos": [
+      {
+        "nombre": "Pozole verde guerrerense",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Pescado a la talla",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Aporreadillo",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Relleno de puerco",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Tiritas de pescado",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Chilpancingo",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Chilpancingo",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Chilpancingo",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "nombre": "Hidalgo",
+    "ciudad": "Pachuca",
+    "emoji": "🫔",
+    "descripcion": "Barbacoa, maguey y preparaciones de la región huasteca.",
+    "platillos": [
+      {
+        "nombre": "Pastes",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Barbacoa de borrego",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Mixiotes",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Ximbó",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Escamoles en mantequilla",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Pachuca",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Pachuca",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Pachuca",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "nombre": "Jalisco",
+    "ciudad": "Guadalajara",
+    "emoji": "🥘",
+    "descripcion": "Platillos de fiesta y sabores urbanos de Guadalajara.",
+    "platillos": [
+      {
+        "nombre": "Birria jalisciense",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Torta ahogada",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Carne en su jugo",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Pozole rojo",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Jericalla",
+        "descripcion": "Dulce regional que refleja ingredientes y técnicas de la repostería tradicional."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Guadalajara",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Guadalajara",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Guadalajara",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "nombre": "Estado de México",
+    "ciudad": "Toluca",
+    "emoji": "🌽",
+    "descripcion": "Recetas de valle, maíz, quelites y embutidos.",
+    "platillos": [
+      {
+        "nombre": "Chorizo verde de Toluca",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Obispo de Tenancingo",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Tacos de plaza",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Sopa de médula",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Huaraches toluqueños",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Toluca",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Toluca",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Toluca",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "nombre": "Michoacán",
+    "ciudad": "Morelia",
+    "emoji": "🫔",
+    "descripcion": "Cocina purépecha, atoles, tamales y antojitos.",
+    "platillos": [
+      {
+        "nombre": "Carnitas michoacanas",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Corundas",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Uchepos",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Sopa tarasca",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Ate moreliano",
+        "descripcion": "Dulce regional que refleja ingredientes y técnicas de la repostería tradicional."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Morelia",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Morelia",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Morelia",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "nombre": "Morelos",
+    "ciudad": "Cuernavaca",
+    "emoji": "🌽",
+    "descripcion": "Cecina, cocina de maíz y productos del campo.",
+    "platillos": [
+      {
+        "nombre": "Cecina de Yecapixtla",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Itacates",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Tacos acorazados",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Huauzontles en salsa",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Mole verde morelense",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Cuernavaca",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Cuernavaca",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Cuernavaca",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "nombre": "Nayarit",
+    "ciudad": "Tepic",
+    "emoji": "🦐",
+    "descripcion": "Tradición costera de pescado, camarones y salsas.",
+    "platillos": [
+      {
+        "nombre": "Pescado zarandeado",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Tlaxtihuilli",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Camarones a la cora",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Sopes de ostión",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Ceviche nayarita",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Tepic",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Tepic",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Tepic",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "nombre": "Nuevo León",
+    "ciudad": "Monterrey",
+    "emoji": "🥩",
+    "descripcion": "Asados norteños y dulces regionales.",
+    "platillos": [
+      {
+        "nombre": "Cabrito asado",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Machacado con huevo",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Carne asada regiomontana",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Glorias de Linares",
+        "descripcion": "Dulce regional que refleja ingredientes y técnicas de la repostería tradicional."
+      },
+      {
+        "nombre": "Frijoles con veneno",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Monterrey",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Monterrey",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Monterrey",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "nombre": "Oaxaca",
+    "ciudad": "Oaxaca de Juárez",
+    "emoji": "🫔",
+    "descripcion": "Moles, maíces y técnicas de gran diversidad cultural.",
+    "platillos": [
+      {
+        "nombre": "Mole negro",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Tlayudas",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Tamales oaxaqueños",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Memelas",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Caldo de piedra",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Oaxaca de Juárez",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Oaxaca de Juárez",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Oaxaca de Juárez",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "nombre": "Puebla",
+    "ciudad": "Puebla",
+    "emoji": "🌶️",
+    "descripcion": "Cocina conventual, mole, chiles y antojitos.",
+    "platillos": [
+      {
+        "nombre": "Mole poblano",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Chiles en nogada",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Cemitas",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Chalupas poblanas",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Molotes",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Puebla",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Puebla",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Puebla",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "nombre": "Querétaro",
+    "ciudad": "Santiago de Querétaro",
+    "emoji": "🌽",
+    "descripcion": "Antojitos de maíz y sabores del semidesierto.",
+    "platillos": [
+      {
+        "nombre": "Enchiladas queretanas",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Gorditas de migajas",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Nopal en penca",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Guajolotes queretanos",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Atole de aguamiel",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Santiago de Querétaro",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Santiago de Querétaro",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Santiago de Querétaro",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "nombre": "Quintana Roo",
+    "ciudad": "Chetumal",
+    "emoji": "🐟",
+    "descripcion": "Sabores del Caribe mexicano y la península de Yucatán.",
+    "platillos": [
+      {
+        "nombre": "Pescado tikin xic",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Ceviche de caracol",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Panuchos",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Salbutes",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Camarones al coco",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Chetumal",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Chetumal",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Chetumal",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "nombre": "San Luis Potosí",
+    "ciudad": "San Luis Potosí",
+    "emoji": "🫔",
+    "descripcion": "Una mezcla de cocina huasteca, potosina y del altiplano.",
+    "platillos": [
+      {
+        "nombre": "Enchiladas potosinas",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Zacahuil huasteco",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Bocoles",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Tacos rojos potosinos",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Asado de boda",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "San Luis Potosí",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "San Luis Potosí",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "San Luis Potosí",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "nombre": "Sinaloa",
+    "ciudad": "Culiacán",
+    "emoji": "🦐",
+    "descripcion": "Cocina sinaloense con mariscos y guisos intensos.",
+    "platillos": [
+      {
+        "nombre": "Aguachile",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Chilorio",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Tacos gobernador",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Ceviche sinaloense",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Frijoles puercos",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Culiacán",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Culiacán",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Culiacán",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "nombre": "Sonora",
+    "ciudad": "Hermosillo",
+    "emoji": "🌮",
+    "descripcion": "Tortilla de harina, asadores y productos del desierto.",
+    "platillos": [
+      {
+        "nombre": "Carne asada sonorense",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Coyotas",
+        "descripcion": "Dulce regional que refleja ingredientes y técnicas de la repostería tradicional."
+      },
+      {
+        "nombre": "Gallina pinta",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Tacos de carne asada",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Burritos de machaca",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Hermosillo",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Hermosillo",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Hermosillo",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "nombre": "Tabasco",
+    "ciudad": "Villahermosa",
+    "emoji": "🍌",
+    "descripcion": "Cocina de ríos, cacao y tradición tropical.",
+    "platillos": [
+      {
+        "nombre": "Pejelagarto asado",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Puchero tabasqueño",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Tamales de chipilín",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Pescado en hoja de momo",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Plátanos rellenos",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Villahermosa",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Villahermosa",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Villahermosa",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "nombre": "Tamaulipas",
+    "ciudad": "Ciudad Victoria",
+    "emoji": "🦐",
+    "descripcion": "Especialidades del Golfo y del noreste.",
+    "platillos": [
+      {
+        "nombre": "Carne a la tampiqueña",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Jaibas rellenas",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Torta de la barda",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Tamales de venado",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Cabrito al horno",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Ciudad Victoria",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Ciudad Victoria",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Ciudad Victoria",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "nombre": "Tlaxcala",
+    "ciudad": "Tlaxcala",
+    "emoji": "🌽",
+    "descripcion": "Milpa, maíz y cocina de raíz prehispánica.",
+    "platillos": [
+      {
+        "nombre": "Mole prieto",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Tlatlapas",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Mixiotes",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Tlacoyos de haba",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Sopa de milpa",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Tlaxcala",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Tlaxcala",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Tlaxcala",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "nombre": "Veracruz",
+    "ciudad": "Xalapa",
+    "emoji": "🐟",
+    "descripcion": "Una amplia cocina de mar, café y antojitos.",
+    "platillos": [
+      {
+        "nombre": "Pescado a la veracruzana",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      },
+      {
+        "nombre": "Arroz a la tumbada",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Picadas",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Zacahuil",
+        "descripcion": "Receta de gran tradición regional, asociada al maíz y a métodos de cocción locales."
+      },
+      {
+        "nombre": "Chilpachole de jaiba",
+        "descripcion": "Preparación vinculada a la riqueza culinaria de ríos, lagunas y costas mexicanas."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Xalapa",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Xalapa",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Xalapa",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "nombre": "Yucatán",
+    "ciudad": "Mérida",
+    "emoji": "🫔",
+    "descripcion": "Cocina maya con achiote, cítricos y maíz.",
+    "platillos": [
+      {
+        "nombre": "Cochinita pibil",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Panuchos yucatecos",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Papadzules",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Sopa de lima",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      },
+      {
+        "nombre": "Relleno negro",
+        "descripcion": "Especialidad representativa de los mercados, hogares y cocinas tradicionales de la región."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Mérida",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Mérida",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Mérida",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "nombre": "Zacatecas",
+    "ciudad": "Zacatecas",
+    "emoji": "🌶️",
+    "descripcion": "Guisos de celebración y sabores del altiplano.",
+    "platillos": [
+      {
+        "nombre": "Asado de boda",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Enchiladas zacatecanas",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Gorditas de horno",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      },
+      {
+        "nombre": "Birria zacatecana",
+        "descripcion": "Platillo de sazón característica, donde destacan los chiles, especias o la cocción lenta."
+      },
+      {
+        "nombre": "Tacos envenenados",
+        "descripcion": "Antojito tradicional con ingredientes y formas de preparación que cambian según la localidad."
+      }
+    ],
+    "restaurantes": [
+      {
+        "nombre": "Espacio de restaurante 1",
+        "zona": "Zacatecas",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 2",
+        "zona": "Zacatecas",
+        "estado": "Pendiente de verificación"
+      },
+      {
+        "nombre": "Espacio de restaurante 3",
+        "zona": "Zacatecas",
+        "estado": "Pendiente de verificación"
+      }
+    ]
+  }
+]
